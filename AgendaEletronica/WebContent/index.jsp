@@ -76,7 +76,7 @@
 		<!-- Grid Tabela -->
 		<div class="panel panel-info">
 			<!-- Default panel contents -->
-			<div class="panel-heading">Painel com bootstrap para grids</div>
+			<div class="panel-heading">Painel com bootstrap grids</div>
 			<div class="panel-body">
 				<p>Grid com bootstrap</p>
 			</div>
