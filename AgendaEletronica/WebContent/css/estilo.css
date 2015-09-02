@@ -1,0 +1,28 @@
+.navbar {
+	margin: 0px;
+}
+
+.page-header img {
+	width: 200px;
+	height: auto;
+}
+
+.footer {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 70px;
+	width: 100%;
+	background: #138AB9;
+	color: white;
+}
+
+div input[type="text"] {
+	width: 300px;
+}
+
+.force-to-bottom {
+	position: absolute;
+	bottom: 5%;
+	width: 100%;
+}
